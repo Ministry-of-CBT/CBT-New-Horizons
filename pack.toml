@@ -1,0 +1,13 @@
+name = "CBT New Horizons"
+author = "Nrmot"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6e1e07ac8f2f7a77399940fb7e716ec114af61061aacd27c0e698f548d22ce36"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

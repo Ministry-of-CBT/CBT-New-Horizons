@@ -1,0 +1,19 @@
+{
+  "packName": "Project CBT!",
+  "packId": "cbt",
+  "version": "1.0.0",
+  "debug": true,
+  "classes": [
+    "classes/import.groovy"
+  ],
+  "loaders": {
+    "preInit": [
+      "preInit/"
+    ],
+    "init": [
+    ],
+    "postInit": [
+      "postInit/"
+    ]
+  }
+}

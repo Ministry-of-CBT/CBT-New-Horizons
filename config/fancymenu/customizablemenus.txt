@@ -1,0 +1,83 @@
+type = customizablemenus
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+net.minecraft.client.gui.GuiWorldSelection {
+}
+
+net.dries007.tfc.client.gui.GuiCustomizeWorld {
+}
+
+net.minecraft.client.gui.GuiFlatPresets {
+}
+
+net.minecraft.client.gui.GuiCreateFlatWorld {
+}
+
+net.minecraft.client.gui.GuiCustomizeWorldScreen {
+}
+
+net.minecraft.client.gui.GuiScreenCustomizePresets {
+}
+
+net.minecraft.client.gui.GuiWorldEdit {
+}
+
+net.minecraft.client.gui.GuiYesNo {
+}
+
+net.minecraft.client.gui.GuiMultiplayer {
+}
+
+net.minecraft.client.gui.GuiScreenAddServer {
+}
+
+net.minecraft.client.gui.GuiScreenServerList {
+}
+
+net.minecraft.client.gui.GuiVideoSettings {
+}
+
+net.minecraft.client.gui.GuiControls {
+}
+
+net.minecraft.client.gui.ScreenChatOptions {
+}
+
+net.minecraft.client.gui.GuiCustomizeSkin {
+}
+
+net.minecraft.client.gui.GuiSnooper {
+}
+
+net.minecraft.client.gui.GuiLanguage {
+}
+
+net.minecraftforge.fml.client.GuiModList {
+}
+
+net.minecraft.client.gui.GuiCreateWorld {
+}
+
+ichttt.mods.moresoundconfig.gui.GuiChooseOutput {
+}
+
+net.minecraft.client.gui.GuiIngameMenu {
+}
+
+micdoodle8.mods.galacticraft.core.client.gui.screen.GuiNewSpaceRace {
+}
+
+tehnut.launchgui.gui.GuiStartup {
+}
+
+com.cleanroommc.multiblocked.api.gui.modular.ModularUIGuiContainer {
+}
+
+net.minecraft.client.gui.GuiShareToLan {
+}
+
+net.minecraft.client.gui.GuiOptions {
+}
+

@@ -6,7 +6,7 @@ hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
 [[files]]
 file = "README.md"
-hash = "9098330ca7024866b92d14ec06cdd3a5c0e7ebd7817ac23d8df805489f8dc34f"
+hash = "3d9cf65d411a6f618546733d03958342ebf9ac72a3b21902cbd52e346bd53366"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -7644,7 +7644,7 @@ hash = "76ec76e4c6b461cea7a993656ce8bad729c5e1d78b003640b7ef0f1cda952073"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/banner.png"
-hash = "33e6b43e69416fb6363270a8644db61fcea8542eb98365129c6678f4a37e395e"
+hash = "a09c82e5c4d70f309ff2db4a3c1b2e03f6a61e2e60006aa89e4cb7ac2b81089e"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.json"
@@ -7760,19 +7760,19 @@ hash = "7a4538acd4d4bac14f20176b3a213ff431b9106701daf96967f201a90fa80439"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu1.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "953dd97b67d5c2ba1ebf222555799558bbe23e56de32a736971fb012046f331d"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu2.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "1fa9dceb67618d7e7bad4eaf11cc20558c56c0fc75fb46455b9c50e66cb5f85d"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu3.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "9e5d23290471453c16dadbb7cf1208d757ba96b5f3251e7ce4064bf3fc3cf042"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu4.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "214494f0eb6ba9470c612859a42ce8ea46e2838700702fe9736ca127a9b3edd3"
 
 [[files]]
 file = "resources/minecraft/textures/entity/enderdragon/dragon.png"

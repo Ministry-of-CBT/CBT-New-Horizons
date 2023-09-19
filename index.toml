@@ -4509,10 +4509,6 @@ file = "config/scalinghealth/main.cfg"
 hash = "aec8e35100673686e3c90626401e95451a823a9323f79d0c7d4abb9a203a9720"
 
 [[files]]
-file = "config/shutthefuckup/fuckyou.bat"
-hash = "8e30194ad71bd3e80f51b2509a5fe7e3ec48083ebb92908d810c86d293847aa1"
-
-[[files]]
 file = "config/silentchaos512/silentgear/silentgear.cfg"
 hash = "d7b0c51879c23d297c080b145aae5a3cfc38b20a3c8d9c38ddb1e5b600d8aacc"
 
@@ -5749,6 +5745,10 @@ file = "groovy/preInit/MV/mvcircuits.groovy"
 hash = "49d4eefd3e2305a5e9abcd3d866ff3e1eedaa59c81db63fe5a085488a62815f9"
 
 [[files]]
+file = "groovy/preInit/MetaItems/metaitems.groovy"
+hash = "3fa69661c3ebd2ed8827f5b31fb2f4999fb906293aa72ad82639af5bbb03228d"
+
+[[files]]
 file = "groovy/preInit/UHV/uhvcircuits.groovy"
 hash = "7f16d1c06e19adf8fa6995500b2be6112a3a73592aba68e4aebf4cef739298f1"
 
@@ -6317,10 +6317,6 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
-
-[[files]]
-file = "packwiz runner temp.bat"
-hash = "8f4d22a24b936b81020d3c6414c69d4632507eba4974fcb21f6671764450734c"
 
 [[files]]
 file = "resources/cbt/blockstates/uhv_quantum_blackhole_alloy_forge_controller.json"
@@ -7660,7 +7656,7 @@ hash = "4633254704cd19d185914b32880fa392679d3c27da6ce34ec39fa4d30eee4528"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_left.json"
-hash = "9ed54cb40b3863f6b7a269e60138b45c990e2bd7e19e1ebb93a30fdb8289a4f8"
+hash = "905880ee6e6785de74357a3b7445ae8dd393bbe37448dff381da8220bee2d882"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_right.json"
@@ -7720,11 +7716,11 @@ hash = "46c63f9a33d864837c52276c4e400ce9b1bb869fb80774020fb873c7fc14f381"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning.json"
-hash = "b62c732fdaacfc32bcd9a33a37ea1e9e2ed9670e7b20c9dc9f94eb49627fb19e"
+hash = "e019182c1ffd37711125f656812c95a73570f99e4d21de77b648a4c809a5c769"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning2.json"
-hash = "b8133203bf98fe6bca0231fc92a776c45fb7f0492c1ec9dd8bcff935c9acaa3c"
+hash = "e6c8933855d8e56cf6cc8799f2c7ed2958900153e776f7c6fbbc9ce149fe06f1"
 
 [[files]]
 file = "resources/ftblib/textures/gui/background_squares.png"

@@ -1,0 +1,71 @@
+{
+	title: "Fuckass Supply Crate Side Quest",
+	x: 4.0d,
+	y: -9.0d,
+	description: "Extra supply crates waiting everytime you kill an ender swaggon",
+	text: [
+		"Ender Swaggon"
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "af4587ac",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	},
+	{
+		uid: "7e0de20a",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "f399c4a3",
+		type: "item",
+		item: "hbm:crate",
+		count: 14
+	},
+	{
+		uid: "7741dd96",
+		type: "item",
+		item: "hbm:crate_weapon",
+		count: 7
+	},
+	{
+		uid: "be452f58",
+		type: "item",
+		item: "hbm:crate_lead",
+		count: 3
+	},
+	{
+		uid: "17a5586c",
+		type: "item",
+		auto: "disabled",
+		item: "hbm:crate_metal",
+		count: 9
+	},
+	{
+		uid: "46d0c83b",
+		type: "item",
+		auto: "disabled",
+		item: "hbm:crowbar"
+	},
+	{
+		uid: "52240dcc",
+		type: "item",
+		item: "srparasites:evolutionlure 1 7",
+		count: 16
+	},
+	{
+		uid: "d430770c",
+		type: "item",
+		item: "hbm:ducc"
+	},
+	{
+		uid: "f0f7005f",
+		type: "item",
+		item: "gregtech:meta_item_1 1 9"
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	title: "iTs wokIng",
+	x: -19.5d,
+	y: 32.5d,
+	description: "how cliche",
+	text: [
+		"\"It's working,\" mDiyo said with relief. \"The barrier is redirecting the chaos back to its source.\"",
+		"",
+		"As the barrier stabilized, the team's efforts started to bear fruit. The chaos from the Chess Realm and its influence on the SCP Universe began to recede, and a sense of calm settled over the dimension.",
+		"",
+		"However, the threat was not fully contained yet. The team knew that they had to confront the root of the problem – Yukari Yakumo and Flandre Scarlet.",
+		"",
+		"Reimu and Marisa suggested a plan to confront the adversaries directly. \"If we can draw them out of hiding, we might be able to put an end to this once and for all,\" Reimu proposed.",
+		"",
+		"Colonel Turner agreed. \"We can use the SCP Universe as bait. If they think they have the upper hand there, they might reveal themselves.\"",
+		"",
+		"With the plan in place, the team prepared to face their adversaries once again. They knew the stakes were high, but they also recognized the importance of standing united against the chaos that threatened the very fabric of the multiverse.",
+		"",
+		"As they ventured into the heart of the SCP Universe, they faced not only the formidable powers of Yukari and Flandre but also the repercussions of their actions that had led to this crisis."
+	],
+	dependencies: [
+		"38d02ae8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "06bd92df",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1098"
+		}]
+	},
+	{
+		uid: "7894a993",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1132"
+		}]
+	}],
+	rewards: [{
+		uid: "555ec2ee",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:strong_mining_fatigue"
+			}
+		}
+	}]
+}

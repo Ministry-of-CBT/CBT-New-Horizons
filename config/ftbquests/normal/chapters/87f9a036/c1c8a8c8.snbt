@@ -1,0 +1,25 @@
+{
+	title: "Heads up!",
+	x: -4.5d,
+	y: 0.5d,
+	description: "A fork in the timeline",
+	text: [
+		"You can choose if you will take this quest or not...",
+		"",
+		"",
+		"There are always forks waiting to be discovered, alternative timelines to procrastinate over and perform CBT sessions over..."
+	],
+	dependencies: [
+		"18fdd6e5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f9768567",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "920cdc44",
+		type: "item",
+		item: "hbm:book_guide_book 1 1"
+	}]
+}

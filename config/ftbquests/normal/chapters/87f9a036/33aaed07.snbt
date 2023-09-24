@@ -1,0 +1,81 @@
+{
+	title: "Gregic Quest 3",
+	x: -4.0d,
+	y: 9.5d,
+	description: "A... A... A....",
+	text: [
+		"Cockomelon",
+		"",
+		"OMG😲😲 IS THAT👉 A MOTHER👨‍👩‍👧‍👦FUCKING😊 🌟GREGTECH🌟🔧🔧🔧🔧 REFERENCE!??!?!? GregTech🔧🔧🔧🔧 is the best mod ever made!!!! 🏆🏆GregoriousT for universe leadership 2030 🪐🌌 👑👑👑When the 只有格雷格。 is greggy! 🔧🛠️🔧🛠️🔧🛠️🔧🛠️ Ultra super mega extreme voltage tier 😳😳😳Death😵"
+	],
+	dependencies: [
+		"7d571c3f"
+	],
+	tasks: [{
+		uid: "44aae31a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 5"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "5e4e8eda",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:item_forge": {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				}
+			},
+			id: "hbm:ingot_copper"
+		}
+	},
+	{
+		uid: "42e3777f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:item_forge": {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				},
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				}
+			},
+			id: "tfc:metal/ingot/copper"
+		}
+	},
+	{
+		uid: "f002a20a",
+		type: "item",
+		item: "gregtech:machine 1 1017"
+	}]
+}

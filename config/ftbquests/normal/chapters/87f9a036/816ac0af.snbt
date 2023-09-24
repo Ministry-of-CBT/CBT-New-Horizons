@@ -1,0 +1,17 @@
+{
+	title: "Continuation 7",
+	x: -13.0d,
+	y: 15.0d,
+	description: "buing",
+	text: [
+		"buing"
+	],
+	dependencies: [
+		"41a6d202"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bca8e62c",
+		type: "checkmark"
+	}]
+}

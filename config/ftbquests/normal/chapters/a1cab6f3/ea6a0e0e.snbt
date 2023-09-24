@@ -1,0 +1,39 @@
+{
+	title: "README.MD",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to Cock and Ball Touhouture: NuclearGreg Horizons.",
+		"",
+		"Or cringe and bullshit torture if youtube demonitazation go brrrrrr",
+		"",
+		"haha mispelled gregoriust go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+		"",
+		"Now may i ask why you exist?",
+		"",
+		"This is the main area. Underneath Project CBT Story mode is GTNH x Touhou Story mode and GTNH x My Hero Academia which will be in development. ",
+		"",
+		"Special Episodes Quests will be the ones that will be added by the community.",
+		"",
+		"The goal of the modpack is to discover the fanfic lore and it's multiple forks."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "f333c5af",
+		type: "checkmark",
+		title: "README.MD"
+	}],
+	rewards: [{
+		uid: "600a9bf4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 6000L
+				}
+			},
+			id: "zollerngalaxy:peach"
+		}
+	}]
+}

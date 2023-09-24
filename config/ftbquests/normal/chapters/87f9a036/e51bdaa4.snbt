@@ -1,0 +1,18 @@
+{
+	title: "Another Fork... Choose Timelines Wisely",
+	x: 0.0d,
+	y: 5.5d,
+	description: "BULLSHIT!",
+	text: [
+		"AN UNGREGGY ERROR HAS BEEN DETECTED! WE WILL SEND NUKES ON YOUR LOCATION!!! PLEASE PREPARE FOR FULL GREGIFICATION PLAN 8 STARS... YOU WILL BE TRANSPORTED TO GENSOKYO SOON... IN THE MEANTIME PLEASE FIGHT OFF THE LUNARIANS WHO ARE TRYING TO TAKE THE MOON FOR THEMSELVES..."
+	],
+	dependencies: [
+		"64698654"
+	],
+	hide: true,
+	tasks: [{
+		uid: "aae8572c",
+		type: "checkmark",
+		title: "Another Fork.. Choose timelines wisely..."
+	}]
+}

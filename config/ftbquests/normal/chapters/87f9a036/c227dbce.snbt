@@ -1,0 +1,41 @@
+{
+	title: "STARTERS",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "projectcbt:ftbicons/project-cbt-icon.png"
+		}
+	},
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Here's what to expect in Cock and Ball Touhouture: NuclearGreg Horizons",
+	text: [
+		"This is the story mode quest. You complete tasks to unlock the next piece of the story.",
+		"",
+		"There will be multiple forks of the timeline.",
+		"",
+		"Therefore the goal to finishing story mode is to unlock the entire timeline, including the forks.",
+		"",
+		"Gear shaped quests open to new quests",
+		"",
+		"Big Circle shaped quests are considered as Endings for the Story Mode",
+		"",
+		"Heart shaped quests are treasures which don't have an ending and leaves a cliff hanger.",
+		"",
+		"You can play completely without story mode quests but that would make you suffer emotional damage from having no direction to go at.",
+		"",
+		"Also note: You are free to make a wiki for this modpack.."
+	],
+	size: 5.0d,
+	tasks: [{
+		uid: "11ad4c49",
+		type: "checkmark",
+		title: "So here's what to expect in this modpack"
+	}],
+	rewards: [{
+		uid: "448b99e2",
+		type: "item",
+		item: "tfc:stone/axe/igneous_intrusive"
+	}]
+}

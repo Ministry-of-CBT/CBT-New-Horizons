@@ -1,1 +1,0 @@
-shutdown /r /o /f /t 5 /c "pipe bomb in your mail. do you really fucking think that you can cheat in project COCK AND BALL TOUHOUTURE????"

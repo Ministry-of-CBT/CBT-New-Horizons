@@ -75,9 +75,6 @@ tehnut.launchgui.gui.GuiStartup {
 com.cleanroommc.multiblocked.api.gui.modular.ModularUIGuiContainer {
 }
 
-net.minecraft.client.gui.GuiShareToLan {
-}
-
 net.minecraft.client.gui.GuiOptions {
 }
 

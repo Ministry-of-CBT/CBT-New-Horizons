@@ -1,12 +1,12 @@
 name = "CBT New Horizons"
 author = "Nrmot"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d29b7efcdc614d75433214d63ce7ac054e7b6ce8c71a45cc3a1c7b6b7cb697c8"
+hash = "5b3bde06a59cf08dc2c8670bd7f63c813f6c98a98e5f18ddbc30abb08f03fc17"
 
 [versions]
 forge = "14.23.5.2860"

@@ -5,7 +5,8 @@ Periodic Table:
 11000 - New Elements
 
 Composite:
-13000 - Compounds
+13000 - Ores
+14000 -
 16000 - Alloys
 17000 -
 18000 -

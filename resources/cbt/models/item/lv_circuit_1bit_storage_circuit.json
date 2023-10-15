@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "cbt:items/lv_circuit_1bit_storage_circuit"
-  }
-}

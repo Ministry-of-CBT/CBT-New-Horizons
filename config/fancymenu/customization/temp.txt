@@ -55,10 +55,10 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  orientation_element = a7f6f1e5-2373-42b4-bb3d-25cbe5e087c01697119270597
   x = 0
   action = movebutton
-  y = -46
+  y = -44
 }
 
 customization {
@@ -81,6 +81,11 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\button.png
   backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
 }
 
 customization {
@@ -148,7 +153,7 @@ customization {
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
   x = 0
   action = movebutton
-  y = -23
+  y = -22
 }
 
 customization {
@@ -292,14 +297,31 @@ customization {
   backgroundhovered = fm\button.png
   label = Customizations
   loopbackgroundanimations = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  orientation_element = a7f6f1e5-2373-42b4-bb3d-25cbe5e087c01697119270597
   x = 0
   width = 100
   actionid = 0514e497-0605-411b-bb79-a3d109215e5b1690536733326
   action = addbutton
-  y = -23
+  y = -22
   backgroundnormal = fm\button.png
   value = PackSettings
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  backgroundhovered = fm\button.png
+  label = Unalive
+  loopbackgroundanimations = true
+  x = -50
+  width = 100
+  actionid = a7f6f1e5-2373-42b4-bb3d-25cbe5e087c01697119270597
+  action = addbutton
+  y = -22
+  backgroundnormal = fm\button.png
+  value = cbtnhquit
   height = 20
 }
 

@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "cbt:items/hv_circuit_4bit_8bit_quackity_module"
-  }
-}

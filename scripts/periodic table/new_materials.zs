@@ -1,5 +1,5 @@
 #loader gregtech
-#priority 1000
+#priority 2000
 
 import mods.gregtech.material.MaterialBuilder;
 import mods.gregtech.material.Material;
@@ -8,67 +8,122 @@ import mods.gregtech.material.Elements;
 //New Elements
 
 var element_susanium = MaterialBuilder(15002, "susanium").element("Susanium-306")
+    .fluid("fluid", false)
+    .plasma()
     .ingot()
+    .iconSet("metallic") // iconset 
+    .color(0x60D82A)
     .build();
 
 var element_dylantrum = MaterialBuilder(15003, "dylantrum").element("Dylantrum-309")
+    .fluid("fluid", false)
+    .plasma()
     .ingot()
+    .iconSet("metallic") // iconset 
+    .color(0xE54D4D)
+    .cableProperties(1572864, 1, 16, false) // add cables
+    .flags(["generate_plate", "generate_rod", "generate_frame", "disable_decomposition"])
     .build();
 
 var element_agrastium = MaterialBuilder(15004, "agrastium").element("Agrastium-313")
+    .fluid("fluid", false)
+    .plasma()
     .ingot()
+    .iconSet("metallic") // iconset 
+    .color(0xCA2245)
+    .flags(["generate_plate", "disable_decomposition"])
     .build();
 
 var element_ruslyium = MaterialBuilder(15005, "ruslyium").element("Ruslyium-318")
+    .fluid("fluid", false)
+    .plasma()
     .ingot()
+    .iconSet("metallic") // iconset 
+    .color(0x407DB0)
+    .flags(["generate_plate", "generate_frame", "generate_foil", "generate_fine_wire", "disable_decomposition"])
+    .itemPipeProperties(1, 32)
     .build();
 
 var element_schrabidium = MaterialBuilder(15007, "schrabidium").element("Schrabidium-326")
+    .fluid("fluid", false)
+    .plasma()
     .ingot()
+    .iconSet("shiny") // iconset 
+    .color(0x64C2B9)
+    .toolStats(10, 3, 256, 21) // temporary stat
+    .rotorStats(10, 2, 1000)
+    .fluidTemp(50000)
+    .blastTemp(30000, HIGHEST, 131072, 6000)
+    .flags(["generate_plate", "generate_rod", "generate_frame", "generate_gear", "generate_long_rod", "generate_foil", "generate_fine_wire", "generate_round", "generate_dense", "generate_rotor", "generate_ring", "generate_small_gear", "generate_spring", "generate_spring_small", "disable_decomposition"])
+    .cableProperties(2097152, 16, 0, true) // add cables
     .build();
 
 var element_solinium = MaterialBuilder(15008, "solinium").element("Solinium-327")
     .ingot()
+    .iconSet("dull") // iconset 
+    .color(0x64C2B9)
+    .flags(["generate_plate", "generate_rod", "generate_frame", "generate_gear", "generate_long_rod", "generate_foil", "generate_fine_wire"])
     .build();
 
 var element_veridium = MaterialBuilder(15009, "veridium").element("Veridium-328")
     .ingot()
+    .iconSet("quartz") // iconset 
+    .color(0xB1F430)
+    .fluidPipeProperties(20000, 200, true, true, true, true)
     .build();
 
 var element_lunarium = MaterialBuilder(15010, "lunarium").element("Lunarium-331")
     .ingot()
+    .iconSet("certus") // iconset 
+    .color(0x3283A8)
     .build();
 
 var element_etherium = MaterialBuilder(15011, "etherium").element("Etherium-335")
     .ingot()
+    .iconSet("bright") // iconset 
+    .color(0xA7453A)
     .build();
 
 var element_xenynium = MaterialBuilder(15012, "xenynium").element("Xenynium-339")
     .ingot()
+    .iconSet("bright") // iconset 
+    .color(0xC7B142)
     .build();
 
 var element_neptupitrium = MaterialBuilder(15013, "neptupitrium").element("Neptupitrium-342")
     .ingot()
+    .iconSet("gem_horizontal") // iconset 
+    .color(0x54BBC2)
     .build();
 
 var element_solimonium = MaterialBuilder(15014, "solimonium").element("Solimonium-346")
     .ingot()
+    .iconSet("rough") // iconset 
+    .color(0x62697B)
     .build();
 
 var element_aetherium = MaterialBuilder(15015, "aetherium").element("Aetherium-350")
     .ingot()
+    .iconSet("opal") // iconset 
+    .color(0xA18BC3)
     .build();
 
 var element_quasarium = MaterialBuilder(15016, "quasarium").element("Quasarium-354")
     .ingot()
+    .iconSet("netherstar") // iconset 
+    .color(0xFFDD03)
     .build();
 
 var element_laranium = MaterialBuilder(15017, "laranium").element("Laranium-358")
     .ingot()
+    .iconSet("certus") // iconset 
+    .color(0x9CB3A4)
     .build();
 
 var element_polinium = MaterialBuilder(15018, "pyranium").element("Pyranium-362")
     .ingot()
+    .iconSet("rough") // iconset 
+    .color(0xACBCDC)
     .build();
 
 var element_silisimmunium = MaterialBuilder(15019, "silisimmunium").element("Silisimmunium-365")

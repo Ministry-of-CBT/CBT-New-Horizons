@@ -1,0 +1,14 @@
+name = "SplashAnimation"
+filename = "SplashAnimation-0.2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3357f8affb9db19e73d0e39a8ca4f9dbb8cc92da"
+
+[update]
+[update.curseforge]
+file-id = 2680269
+project-id = 289953

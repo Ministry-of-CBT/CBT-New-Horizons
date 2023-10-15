@@ -1,0 +1,14 @@
+name = "Galaxy Space [Addon for GalactiCraft]"
+filename = "GalaxySpace-1.12.2-2.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "008fa3209a0b1cd4100d66acbe52c21c479592bc"
+
+[update]
+[update.curseforge]
+file-id = 4713191
+project-id = 238770

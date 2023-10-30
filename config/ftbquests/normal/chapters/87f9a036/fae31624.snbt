@@ -20,7 +20,18 @@
 		uid: "e9b2fcdc",
 		type: "item",
 		items: [{
-			item: "tfc:wood/log/oak"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				}
+			}
 		}],
 		count: 128L
 	}],

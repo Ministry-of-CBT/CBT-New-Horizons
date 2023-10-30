@@ -1,0 +1,434 @@
+{
+  "version": 2,
+  "location": "cbt:test1",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "minecraft:barrier",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "AAAAAA",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "AAAAAA",
+        "      "
+      ],
+      [
+        " BBBB ",
+        " BBBB ",
+        " BBBB ",
+        "      ",
+        "A    A",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " B  B ",
+        " B    ",
+        " B    ",
+        " BBBB ",
+        "A    A",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " B  B ",
+        " B    ",
+        " B    ",
+        " BBBB ",
+        "A    A",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " B  B ",
+        " B    ",
+        " B    ",
+        " BBBB ",
+        "A    A",
+        "A     ",
+        "A     ",
+        "A     ",
+        "A     ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " BBBB ",
+        " BBBB ",
+        " BBBB ",
+        "  B   ",
+        "A B  A",
+        "     A",
+        "     A",
+        "     A",
+        "A    A",
+        "AAAAAA",
+        "     A",
+        "      ",
+        "      ",
+        "      ",
+        "     A",
+        "A    A",
+        "      "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "ABBB A",
+        " BBB  ",
+        " BBB  ",
+        " BBB  ",
+        " BBB  ",
+        "ABBB  ",
+        " BBB  ",
+        " BBB A",
+        " BBB  ",
+        " BBB A",
+        " BBB  ",
+        "ABBB A",
+        " BBB  "
+      ],
+      [
+        "@     ",
+        "A     ",
+        "A     ",
+        "A     ",
+        "ABBB A",
+        "ABBB  ",
+        "ABBB  ",
+        " BBB  ",
+        " BBB  ",
+        "ABBB  ",
+        "ABBB  ",
+        "ABBB  ",
+        "ABBBAA",
+        "ABBB  ",
+        "ABBB  ",
+        "ABBB A",
+        " BBB  "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "ABBB A",
+        " BBB  ",
+        " BBB  ",
+        " BBB  ",
+        " BBB  ",
+        "ABBB  ",
+        " BBB  ",
+        " BBB A",
+        " BBB  ",
+        " BBB A",
+        " BBB  ",
+        "ABBB A",
+        " BBB  "
+      ],
+      [
+        " BBBB ",
+        " BBBB ",
+        " BBBB ",
+        "  B   ",
+        "A B  A",
+        "     A",
+        "     A",
+        "     A",
+        "A    A",
+        "AAAAAA",
+        "     A",
+        "      ",
+        "      ",
+        "      ",
+        "     A",
+        "A    A",
+        "      "
+      ],
+      [
+        " B  B ",
+        " B    ",
+        " B    ",
+        " BBBB ",
+        "A    A",
+        "A     ",
+        "A     ",
+        "A     ",
+        "A     ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " B  B ",
+        " B    ",
+        " B    ",
+        " BBBB ",
+        "A    A",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " B  B ",
+        " B    ",
+        " B    ",
+        " BBBB ",
+        "A    A",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        " BBBB ",
+        " BBBB ",
+        " BBBB ",
+        "      ",
+        "A    A",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "A    A",
+        "      "
+      ],
+      [
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "AAAAAA",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "A    A",
+        "AAAAAA",
+        "      "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "gregtech:meta_block_frame_687",
+            "meta": 15
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "cbt:test1",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "cbt:schrabidium_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ]
+    }
+  }
+}

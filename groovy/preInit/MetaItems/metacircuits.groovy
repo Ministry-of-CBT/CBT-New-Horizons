@@ -18,7 +18,7 @@ import gregtech.common.items.behaviors.TooltipBehavior;
 log.infoMC("Project CBT: Adding Circuit Torture")
 
 StandardMetaItem projectcbtcircuitslv = new StandardMetaItem((short)2);
-projectcbtcircuitslv.setRegistryName("projectcbt_circuits_lv")
+projectcbtcircuitslv.setRegistryName("cbt:projectcbt_circuits_Lv")
 
 log.infoMC("Project CBT: Admit LV Circuits: Stage Machine-Specific Circuits")
 
@@ -110,7 +110,7 @@ projectcbtcircuitslv.addItem(80, "circuit.lv.component.filter_chip");
 log.infoMC("Project CBT: Admit LV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsmv = new StandardMetaItem((short)2);
-projectcbtcircuitsmv.setRegistryName("projectcbt_circuits_mv")
+projectcbtcircuitsmv.setRegistryName("cbt:projectcbt_circuits_mv")
 
 log.infoMC("Project CBT: Admit MV Circuits: Stage Machine-Specific Components")
 
@@ -202,7 +202,7 @@ projectcbtcircuitsmv.addItem(80, "circuit.mv.component.filter_chip");
 log.infoMC("Project CBT: Admit MV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitshv = new StandardMetaItem((short)2);
-projectcbtcircuitshv.setRegistryName("projectcbt_circuits_hv")
+projectcbtcircuitshv.setRegistryName("cbt:projectcbt_circuits_hv")
 
 log.infoMC("Project CBT: Admit HV Circuits")
 
@@ -265,7 +265,7 @@ projectcbtcircuitshv.addItem(54, "circuit.hv.eg_steam_turbine");
 log.infoMC("Project CBT: Admit HV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsev = new StandardMetaItem((short)2);
-projectcbtcircuitsev.setRegistryName("projectcbt_circuits_ev")
+projectcbtcircuitsev.setRegistryName("cbt:projectcbt_circuits_ev")
 
 log.infoMC("Project CBT: Admit EV Circuits")
 
@@ -328,7 +328,7 @@ projectcbtcircuitsev.addItem(54, "circuit.ev.eg_steam_turbine");
 log.infoMC("Project CBT: Admit EV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsiv = new StandardMetaItem((short)2);
-projectcbtcircuitsiv.setRegistryName("projectcbt_circuits_iv")
+projectcbtcircuitsiv.setRegistryName("cbt:projectcbt_circuits_iv")
 
 log.infoMC("Project CBT: Admit IV Circuits")
 
@@ -391,7 +391,7 @@ projectcbtcircuitsiv.addItem(54, "circuit.iv.eg_steam_turbine");
 log.infoMC("Project CBT: Admit IV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsluv = new StandardMetaItem((short)2);
-projectcbtcircuitsluv.setRegistryName("projectcbt_circuits_luv")
+projectcbtcircuitsluv.setRegistryName("cbt:projectcbt_circuits_luv")
 
 log.infoMC("Project CBT: Admit LUV Circuits")
 
@@ -454,7 +454,7 @@ projectcbtcircuitsluv.addItem(54, "circuit.luv.eg_steam_turbine");
 log.infoMC("Project CBT: Admit LUV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitszpm = new StandardMetaItem((short)2);
-projectcbtcircuitszpm.setRegistryName("projectcbt_circuits_zpm")
+projectcbtcircuitszpm.setRegistryName("cbt:projectcbt_circuits_zpm")
 
 log.infoMC("Project CBT: Admit ZPM Circuits")
 
@@ -517,7 +517,7 @@ projectcbtcircuitszpm.addItem(54, "circuit.zpm.eg_steam_turbine");
 log.infoMC("Project CBT: Admit ZPM Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsuv = new StandardMetaItem((short)2);
-projectcbtcircuitsuv.setRegistryName("projectcbt_circuits_uv")
+projectcbtcircuitsuv.setRegistryName("cbt:projectcbt_circuits_uv")
 
 log.infoMC("Project CBT: Admit UV Circuits")
 
@@ -580,7 +580,7 @@ projectcbtcircuitsuv.addItem(54, "circuit.uv.eg_steam_turbine");
 log.infoMC("Project CBT: Admit UV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsuhv = new StandardMetaItem((short)2);
-projectcbtcircuitsuhv.setRegistryName("projectcbt_circuits_uhv")
+projectcbtcircuitsuhv.setRegistryName("cbt:projectcbt_circuits_uhv")
 
 log.infoMC("Project CBT: Admit UHV Circuits")
 
@@ -643,7 +643,7 @@ projectcbtcircuitsuhv.addItem(54, "circuit.uhv.eg_steam_turbine");
 log.infoMC("Project CBT: Admit UHV Circuits - Dne")
 
 StandardMetaItem projectcbtcircuitsuev = new StandardMetaItem((short)2);
-projectcbtcircuitsuev.setRegistryName("projectcbt_circuits_uev")
+projectcbtcircuitsuev.setRegistryName("cbt:projectcbt_circuits_uev")
 
 log.infoMC("Project CBT: Admit UEV Circuits")
 
@@ -706,7 +706,7 @@ projectcbtcircuitsuev.addItem(54, "circuit.uev.eg_steam_turbine");
 log.infoMC("Project CBT: Admit UEV Circuits - Done")
 
 StandardMetaItem projectcbtcircuitsuiv = new StandardMetaItem((short)2);
-projectcbtcircuitsuiv.setRegistryName("projectcbt_circuits_uiv")
+projectcbtcircuitsuiv.setRegistryName("cbt:projectcbt_circuits_uiv")
 
 log.infoMC("Project CBT: Admit UIV Circuits")
 

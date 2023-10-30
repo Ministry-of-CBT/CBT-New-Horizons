@@ -41,12 +41,16 @@ file = "ambience_music/music/sweet_dreams_project_cbt.mp3"
 hash = "20d84413d46ee0c3fb2c14f2ca9d4dcd0ee1cad1c7f8a1a761b9831aba77a1ac"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "890cc0556da805f847fbf36587a6075fc117fd6b699969b10d9d279de3490c66"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "e7473f41de545cf5738cd5d25572446e564edf25056e6b3918fa4dc214bc7a78"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "f323233b3f3b5d43a6756e89776eb197511a77bbc6830ad8a466e7423f9937b7"
+hash = "117561960f7e641b1b6790a07866e9490c732bfe8030ead802523090226c3551"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -54,11 +58,11 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "e2ab1f3ce5fd05eec6a2bc446835c5d11f3d812245c4a9e087ffe93b8d9aa06a"
+hash = "7b68223d0f48473acd64bbb548252edfd834908247922992618f6667cc1173f3"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "0132cd0fea788d46ab610192140e9635c5bf216972c0b55672ad2c9d23174fca"
+hash = "3a1d28078ebec84674c66aaf98aead656d5ba008263f169db3fd0b1834684a6d"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -3386,7 +3390,7 @@ hash = "005fa8f223045ecf09309ee5836b78192d75881b3891380f44a1e1ca88655bfd"
 
 [[files]]
 file = "config/battletowers.cfg"
-hash = "723806be53a3d13089dbc629160bc332d0464d129fee91cd97fe235848f8effa"
+hash = "e9b3c39c7ddd6a1de1a8fcde795d20f4a117d11fb730f3006fe9231a9c752b1d"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -3470,7 +3474,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "aec40be269981df4993f5c3268b1b5092b402ba7ed8c10cdad732a6f26be3198"
+hash = "782668332f03142768e4599f9eb95afc513590c1cd02653086cce7769e508fef"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -3514,7 +3518,7 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "6bd5cb412b07a8c95173ca2b8bf10e74d98197d8e6a2ab921b330777c403941a"
+hash = "5ef514da9df6cecad5703971a85884bd8ce1e625b67de41d4540f5d91f6a504d"
 
 [[files]]
 file = "config/fancymenu/customguis/PackSettings.txt"
@@ -4318,7 +4322,7 @@ hash = "b48dfe049a5d5ae6d23d41d064350694c7346df8a6eae6ecd1a14fc5d9acea7d"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/fae31624.snbt"
-hash = "50c5d98ab471cdc448d8f849a3efe000dc32296a6e74fd0807faff4d5a79616a"
+hash = "c502a570b8eb4e80112277761007c5bc2fecec200cab228eadc6d7a2466e5f28"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/fe955e60.snbt"
@@ -4386,7 +4390,7 @@ hash = "4971f35b9622c5e4e9e56375fd6cf8ba6bf4616ff2c4c94643c829accaf1b3ee"
 
 [[files]]
 file = "config/gregtech/terminal/config/RECIPE_CHART.nbt"
-hash = "95a8df04ed9e2e6f0f50eef7d6f6ee7807aaa132ac4aed8d84a1026505851de6"
+hash = "6e56b1de75224951624252ebe2f239379b7bcee692a51d55cdb256d73e37552c"
 
 [[files]]
 file = "config/gregtech/terminal/config/STORE.nbt"
@@ -5014,7 +5018,7 @@ hash = "c546ad832791db6889e41edc4d3dc0cf59dbeaf6f94d9d8dbd611748274368a6"
 
 [[files]]
 file = "config/gregtechfoodoption.cfg"
-hash = "b5ed6147035344d7652faa7ed393b0a6a36280e625e4b61d7e7ef06e1dcdac8c"
+hash = "9e6eaa05362dc1e19c5116cbbb6582cae569f6301f6d205d8b614dfbed3519c8"
 
 [[files]]
 file = "config/grimoireofgaia.cfg"
@@ -5030,7 +5034,7 @@ hash = "a3653759f542e9d8f209539256ba50e5253675744af5d219e5c34eabdca9ca1b"
 
 [[files]]
 file = "config/hbm/assemblerConfig.cfg"
-hash = "eff3df568c0b1777853bbe1b838f72315be2c8a46c04e31b9c01e67d05406ae5"
+hash = "6139c64d8d6f59c29d09605bdea350f2f1573c83c84b88f090c49ce51327d7ee"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
@@ -5074,7 +5078,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "df93f14befe905f6ccccbcef5e51023adbd30f53791721f03213f3a0706bceff"
+hash = "417a084caa0decdcfc46d5c1b35eba3c1faf4549b5a6c554652574f89fb79412"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -7161,12 +7165,20 @@ file = "config/multiblocked/definition/controller/cbt_dfc_sex_multiblock.json"
 hash = "f015bcf38a350819d343d8d1329dc57dfc3b56b660efe4831ad367b32da60b0b"
 
 [[files]]
+file = "config/multiblocked/definition/controller/cbt_test1.json"
+hash = "7997df0789966e22839b1a81fc54fdb9e5e406898d7c5aa0875d9d01be1c9fcd"
+
+[[files]]
 file = "config/multiblocked/definition/controller/cbt_ulv_station_mb_1.json"
 hash = "a8738b8362788ca22583dde52fb4af34b9cb24b4f306a1bedddbea6cc8930560"
 
 [[files]]
 file = "config/multiblocked/definition/controller/mod_id_component_id.json"
 hash = "73b1319a8c43196b144649f847be08cd5b56ba0858aefbd8ed316f804dc9ab55"
+
+[[files]]
+file = "config/multiblocked/definition/controller/multiblock_uv1.json"
+hash = "d01816c065e528b52b4324ecde0c87df4a23ba67a5b5b8ed62362d20c7e776dd"
 
 [[files]]
 file = "config/multiblocked/definition/part/cbt_dfc_sex_multiblock_energy_provider.json"
@@ -7182,11 +7194,11 @@ hash = "12acd399ea93df843f7a4394a0b7159ad9d9c31e46a16753714940f402fd8899"
 
 [[files]]
 file = "config/multiblocked/definition/part/cbt_ulv_circuit_multiblock_ep.json"
-hash = "1b74b2f14c38c9569d854a072a4a32994861b092a7cfe5920505f4365d9d41d6"
+hash = "72e0f7392da5625b700c191c454fade5a334a864d59fe578bb75fdb46a4c20ba"
 
 [[files]]
 file = "config/multiblocked/recipe_map/LV circuitry.json"
-hash = "8450d7843e61209aea3b41e18bfda60758252d7bf1ada9f5a7ffa195e296b8b4"
+hash = "95cdc2ff1e6ed6aa34965a4c637fcf0d24a38784f5ef062217c308bc01499971"
 
 [[files]]
 file = "config/multiblocked/recipe_map/LV converters.json"
@@ -7262,7 +7274,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "a30dbd912dc2083122090fddbb75256aecc42e501707c28ffda49d0c6ef4095e"
+hash = "27889df6358fb98c8d060d0b156d4471ac10c0f64f1094ae40346f9de1926759"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -7458,7 +7470,7 @@ hash = "0bf4931ecb3eab3a93270aa7b47fa1b8472cf384307ae7c25d486b7f6d09396e"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "3d687401d7c2baa284055e9653fd2c3a4f5508ec07a2eb89f3d918b0b1c0332d"
+hash = "34d8df7048be9616c22c994e14d6c8645641b2c4f76f444cefe5c6a91c3f37c3"
 
 [[files]]
 file = "fm/button.png"
@@ -7497,8 +7509,24 @@ file = "fm/thumb-1920-120557.jpg"
 hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
+file = "groovy/assets/atomic_casing.png"
+hash = "3541c9b02965c46e129f6f5f370548ebc6a913bb6a3c3c46ed943a3ef5a2a481"
+
+[[files]]
+file = "groovy/assets/cbt/blockstates/fusion_matrix_polymultischrabaquadallastantarium.json"
+hash = "e842c4c58ba99853817acfcf5819f4bd3424858fda410a33112690cfc7e85bb5"
+
+[[files]]
 file = "groovy/assets/cbt/blockstates/machine_casing_schrabidium.json"
 hash = "a73b3df48fdcf3185a9c871798d59abcc328b77b5fa6ed4bd4b6139f38afaf43"
+
+[[files]]
+file = "groovy/assets/cbt/blockstates/schrabidium_casing.json"
+hash = "9393809eb30189c4e6d37adb9b64a6dc4f5ff13fa831ada24bcdc233bb984801"
+
+[[files]]
+file = "groovy/assets/cbt/blockstates/titanium_casing_modified_1.json"
+hash = "68233ddbd870a27570f69758a9faa06d5ff559af0be18e13a48bc66a0a0bb37d"
 
 [[files]]
 file = "groovy/assets/cbt/blockstates/uhv_quantum_blackhole_alloy_forge_controller.json"
@@ -7510,11 +7538,23 @@ hash = "5c31788bc667583a5ff406309a7c168f06e52d36764700681692581358d77366"
 
 [[files]]
 file = "groovy/assets/cbt/lang/en_us.lang"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "11ae2d52cb294bda7ad1847f1df040a31ce5faeba2bd8e25a7f80d6af9c9848c"
+
+[[files]]
+file = "groovy/assets/cbt/models/block/fusion_matrix_polymultischrabaquadallastantarium.json"
+hash = "e6bfa154e3d396d74d658fb829b60699894d8f6293a001a05fa321c2c893f2b7"
 
 [[files]]
 file = "groovy/assets/cbt/models/block/machine_casing_schrabidium.json"
 hash = "1974d71ef434d35c6bab027f68203d369da673ccc5d568e106074f2984937404"
+
+[[files]]
+file = "groovy/assets/cbt/models/block/schrabidium_casing.json"
+hash = "b9cf18d439e948b6c7efbb01bc8d2bc1883d7604a6717eb2a8bb1bf45c615752"
+
+[[files]]
+file = "groovy/assets/cbt/models/block/titanium_casing_modified_1.json"
+hash = "cdbb95183299e05dbb8cdeca0b51799fa085fd96e447cbb40b1964f6f24a7764"
 
 [[files]]
 file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_controller.json"
@@ -7523,6 +7563,10 @@ hash = "16c0f3f2ee910feea2a8b406490bb0e2902af0c8ab7fd8f6bfa864ed9e4d090d"
 [[files]]
 file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_part1.json"
 hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/fusion_matrix_polymultischrabaquadallastantarium.json"
+hash = "503a22545561529e074dc41a494eb142f56498f0635157d0390815882c0cae4b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/hv_circuit_1bit_storage_circuit.json"
@@ -7977,6 +8021,10 @@ file = "groovy/assets/cbt/models/item/mv_circuit_super4bit_parax.json"
 hash = "d83f4d601818d97e1bd757957ec1a7b476deb552cd643ba7a2f1b61370fce6ed"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/schrabidium_casing.json"
+hash = "8dbfb99b9e9dcadeeed43cd881b34cc0a5395c78f6e869d59730cbefd951f48f"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
 hash = "1d199bbff9af761c9660369db79c4e8fe265f3adb58c08e61adbfe75efc96d8d"
 
@@ -8329,6 +8377,10 @@ file = "groovy/assets/cbt/models/item/thorassium.json"
 hash = "d60ec4178d22d86f9440737346fabef0cb721b97af9a911f8c719d7cf833cf26"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/titanium_casing_modified_1.json"
+hash = "1a21cf1b7db937a73759be4806fbc321851f33481954cc085032b88e87bbb9bc"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/uhv_circuit_1bit_storage_circuit.json"
 hash = "b38543ac1e86c21b6ef357f7c42ab43c44ea2b590c47bc9ac481d4d191de7042"
 
@@ -8493,8 +8545,36 @@ file = "groovy/assets/cbt/models/item/urephittium.json"
 hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
 [[files]]
+file = "groovy/assets/cbt/textures/blocks/fusion_matrix_polymultischrabaquadallastantarium.png"
+hash = "356549367b6ee5c5f84a9d7ee2a6a02a12179025327729ffcd140e1716f9a305"
+
+[[files]]
+file = "groovy/assets/cbt/textures/blocks/schrabidium_casing.png"
+hash = "08df5a64b8e7ccea90182ade3c690b3d5a59de7b51191272985a028bffc77e8f"
+
+[[files]]
+file = "groovy/assets/cbt/textures/blocks/titanium_casing_modified_1.png"
+hash = "7cb81c9931a1d8e8250b0791fadbb9be6ad50278bb47c1bde98b99cf6a71c11e"
+
+[[files]]
+file = "groovy/assets/fwatz_computer.png"
+hash = "3fff31af685e98a246362a6aff960c75476108e79d4a2c439c70caf4d8eac586"
+
+[[files]]
+file = "groovy/classes/.groovy"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "groovy/classes/IParticleAccelerator.txt"
+hash = "1bdd4c3384ff9208b3a6d62a48c48a8d76b85a8552a0c1e5b15b159eed3c76c5"
+
+[[files]]
+file = "groovy/classes/hbm.groovy"
+hash = "2d3c39351b40fdf7505e3e79a066daf02b2e2e981880be1e605bac203bbd00fe"
+
+[[files]]
 file = "groovy/classes/import.groovy"
-hash = "7a6407d83d2745263ed6c25b6239ab311d7f739ea835ed424025e7577e5a9e7c"
+hash = "49a2744c6508647c90a1c165e3ed49ca733fb8b9e96592272b79e75601dc960b"
 
 [[files]]
 file = "groovy/classes/oh my fucking god why.txt"
@@ -8505,8 +8585,16 @@ file = "groovy/init/.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "groovy/init/funnyformulas.groovy"
+hash = "9b9059964a4b4d4b6f1ef55cdcf1ce71932c75b70369033a83504644d8feed34"
+
+[[files]]
 file = "groovy/init/oredict/hbmgreg.groovy"
 hash = "333983127d49e2ee00830c5a0683032268731ea7aa2ef4b3634d272531b4e95e"
+
+[[files]]
+file = "groovy/postInit/assemblyline.groovy"
+hash = "651fd48df9f9671e2033340bf1f76d2ef5deb6f57430552e4274c349bc88269a"
 
 [[files]]
 file = "groovy/postInit/main.groovy"
@@ -8517,6 +8605,10 @@ file = "groovy/postInit/yeet_the_fucking_recipes_the_easy_one.groovy"
 hash = "8aaf807e0d185155bf2082960cd95b581d713d4170164d45df8f65554f50def8"
 
 [[files]]
+file = "groovy/preInit/Blocks/blocks.groovy"
+hash = "de31de6cc508df3d28dd04b5872941e38e0d625bff5b8df6021434d30872d3af"
+
+[[files]]
 file = "groovy/preInit/Food/meth.groovy"
 hash = "b813bdde16dd1227758ee7f11f5e437c9d81711ed7e15d5135733ebcfaa9d7e6"
 
@@ -8525,20 +8617,28 @@ file = "groovy/preInit/Machines/casings.groovy"
 hash = "e877b494409d9d40f43369b04e8a681b7591b1ee61ded43faa69de8025905f4e"
 
 [[files]]
+file = "groovy/preInit/MetaItems/metabinary.groovy"
+hash = "0ca0fcd8d8011415cd39e42b60690f3270ae6f7c03cbac403e1d010c0d996248"
+
+[[files]]
 file = "groovy/preInit/MetaItems/metacircuits.groovy"
-hash = "83bafd5ea2901599b2b4ad943f07d0990d715bc8ce4dc33a8e141f25ff2534e8"
+hash = "fbf31013a9181cd9fc37fbaf30e1395c00f16c316d6f93a314fef57853fbff6a"
 
 [[files]]
 file = "groovy/preInit/MetaItems/metacomponents.groovy"
-hash = "6f519320c6c080338203e7c8a1cff56a80c93ec85be79dfa66082d21e7c50456"
+hash = "93f98e610566d501e7200989734f42478dd1ba57edd35ae897e548d08df4c609"
 
 [[files]]
 file = "groovy/preInit/MetaItems/metaitems.groovy"
-hash = "f0dec6582d6ffc78e90a65102fed4d1744b60d25ffdb2f58650baa57ad4b99f5"
+hash = "c3af68511107aa284bd62c0ee134ca59d927215e23bc4c9334db40fd9dd60705"
 
 [[files]]
 file = "groovy/preInit/PeriodicTable/atoms.groovy"
-hash = "406f9bb8779616a87c116cb15b8cb9a2bdf14eb9e03f4b25681627b1e1aeec36"
+hash = "7c478e7f952fa51dd733a9236a32a94a7179361eb2d2ac9c5f30adb32fc12e0e"
+
+[[files]]
+file = "groovy/preInit/fuckyou.groovy"
+hash = "3e628437f94faa919df978c80fdd6ea2d9f362822126bc538697a6a2d940d9bb"
 
 [[files]]
 file = "groovy/runConfig.json"
@@ -8546,7 +8646,7 @@ hash = "b6ff6bc371891c6dfd4f7c0c17ed6caee5fd43b38066f64f1c6ba626d14de7bb"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "e5a1f7d0e232cb8c7836255c9cff93a0e2657b9bbdd3a8dbac63856853c5d2b8"
+hash = "c77353a3864a86f4bc0865c6721b15c2293253a4f4d7bfc19b2ee34700d19ccd"
 metafile = true
 
 [[files]]
@@ -8556,7 +8656,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "ba46bea448fb80d2b5334abc7c81c773c6ba2ae97a0a5a5cee2a2bb9baca5745"
+hash = "aacd87b26def466944a0cb9648858424698dc4b8c65e92b59a5f206e5ea2aef5"
 metafile = true
 
 [[files]]
@@ -8676,7 +8776,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "b095df04d8f85baabc6e166ce908b21ab26b305576fd2037a3e87ec5a3759653"
+hash = "2e0606b41eb17c5a5b4b8c609631bf752aaa8bfd2050f44fab6b4e54528148fa"
 metafile = true
 
 [[files]]
@@ -8711,7 +8811,7 @@ metafile = true
 
 [[files]]
 file = "mods/extraplanets.pw.toml"
-hash = "f71ac7b38cb5f43c8f3bce12df374e3bdaab926d682e11ff71acfae5bb9a8cef"
+hash = "a16678017350b9bc5c356d66c045d2c027c12984ed0d4faa9a01c12319e6546a"
 metafile = true
 
 [[files]]
@@ -8761,7 +8861,7 @@ metafile = true
 
 [[files]]
 file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
-hash = "87891e915c0d6c4bd19e725df1cd56e96c0a7072e1cb768cc25cfd3f36612dc2"
+hash = "2665b78e2afa2bb4e0bb6f88d240a392a3950ae744c8d453989a710af4cab737"
 metafile = true
 
 [[files]]
@@ -8776,7 +8876,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtech-food-option.pw.toml"
-hash = "3fb80128f4a782ce1db098c7e4056735279fc15d3f4d630f8f1437663bb53b83"
+hash = "eb4b6dbd1dc6af266e644d9e36fb3665673380f3e30b97bad1dd5dc4d049d88d"
 metafile = true
 
 [[files]]
@@ -8786,12 +8886,12 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "2f0cf7963c95a0a6b3f4906ae8b497a8270a3dc9b4e7c323cfa227c05bfeb065"
+hash = "8e53eb25bda48845206d458e1a72fdf06eca746aa76fa9b593c731c0568ca1ef"
 metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "a19930351be5e4bc63d35664da72ccdd201585818811ec72dc1b38da68b9fae9"
+hash = "46105378f0912c9698335465b9dec93863bc709a626055ef1281f0c2308b1f0c"
 metafile = true
 
 [[files]]
@@ -8906,7 +9006,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "f9a107c846eac43a735020db2ae465c15bb7921a02005958ae2d86cc1d6ab340"
+hash = "d7ab4e5f5e177cd54dd18e49cd1c0920885cd43fcbb4f74f575cbc07048c8aba"
 metafile = true
 
 [[files]]
@@ -9308,7 +9408,7 @@ hash = "af0848aa6019b18e058d4e26d8906c365970e2a76e9baa45c96725334e6123ec"
 
 [[files]]
 file = "resources/gregtech/lang/en_us.lang"
-hash = "d8213fab0d072200e87846e599f32dd9f12617a45a22c11726a036775034f062"
+hash = "a36eda02a7602fb5489614fede6455db899821a885330f8572d00f98d11ae8e8"
 
 [[files]]
 file = "resources/gregtech/textures/gui/terminal/frame_side_down.png"
@@ -9508,31 +9608,35 @@ hash = "b549820696d3b20d26c21c8abac00563abdd32b5f9887f74d255c48ad7f09877"
 
 [[files]]
 file = "scripts/documentation.txt"
-hash = "5e0dd9f71c57d56cdc08e3ccb7dd45fd1fc8980bfb97a3b8324e28106a27a628"
+hash = "c175ff5561419782982ad0bc90b13852f7f33a8186612cf5d9f793d6883ec5be"
 
 [[files]]
-file = "scripts/gregmeth_line/gregmeth_materials.zs"
-hash = "7109a5fcb88c574d8c3365901cd2eee892c4c4366608b25b46038fe2c60995d8"
-
-[[files]]
-file = "scripts/gregmeth_line/gregmeth_recipes.zs"
-hash = "62db6e289aaf8b31d0c1247a4f08708ac8412423c55f891c3cc4193679cd847c"
+file = "scripts/misc.zs"
+hash = "e4575785b07fdd24179ba2b2c5c649a6947bdbfd8369555198d014a1addbb997"
 
 [[files]]
 file = "scripts/misc/human_resources_multiblock.zs"
-hash = "8bff9b713ade233f35a321e31f464d046b65b12c6398923ea58f94170d56988d"
+hash = "5d0b871997a19e6ae59b681d84a6c6f71ea44100835aea138e548587493c282c"
 
 [[files]]
 file = "scripts/misc/materials.zs"
-hash = "aba5f45e1bb022f6437a634646f0d14090fa3d6d7206a2dc85e0495067ae940d"
+hash = "d3071396ef97f7b6f3d3842f7f532396b227786c5c15811365c0f42b083610dc"
+
+[[files]]
+file = "scripts/multi/bbdmcpl.zs"
+hash = "eb1ff6328f3c2b16872bf7703d16272d36becf5a790f7c2c3f130d621f3a81e3"
 
 [[files]]
 file = "scripts/periodic table/alloys.zs"
-hash = "439cbe0e34c993c9680a99e742f7503bc371b79442a4f6a6922f0325d8582f81"
+hash = "2302e2e2ce9a831172f6ede4a2353d6dd0617199552e6bae2e209337817f7102"
+
+[[files]]
+file = "scripts/periodic table/complex_materials.zs"
+hash = "47563f6a53b4e3855a6250457e6f342b93d805c94f61276db3b3736ee234294f"
 
 [[files]]
 file = "scripts/periodic table/existing_elements.zs"
-hash = "17330f32ef8c8143896a091a94c735cedcd0ba9c9846ff2a7fee7fdd24be291a"
+hash = "ea93816a257e0d0cf521c241c754ae66ccbce3ebe48cecc78de1bc348ed87253"
 
 [[files]]
 file = "scripts/periodic table/new_casings.zs"
@@ -9540,15 +9644,15 @@ hash = "9a045bd69515d07eb0468135ae45caee0bc744797b28d83a6c7818035e70fac8"
 
 [[files]]
 file = "scripts/periodic table/new_elements.zs"
-hash = "69cf383001996f3f7577f07639ff94c086ea36b6c8e1aaec8867b801b07bc943"
+hash = "06f2bdecad8e2d85bfff909b0a7d389096979a654abb431dd2e2c5e1787605b2"
 
 [[files]]
 file = "scripts/periodic table/new_materials.zs"
-hash = "9634356a36c22ac3976423e1286fc37de4b114f0a734b14d1d64676702b4636d"
+hash = "256515e23f716a65a1d8fe5b8d59ece33f6c6739439a0a7811c1e747c4e50260"
 
 [[files]]
 file = "scripts/periodic table/ores.zs"
-hash = "97118c582c81a7e4a4b163db830614087082fd4645f3d0157139966d0ab5bc40"
+hash = "e69da28cb0ee8c60593b8cc5bc6421cb83784be4a5686fb461bc75ef78aa263d"
 
 [[files]]
 file = "scripts/yeet_recipes.zs"

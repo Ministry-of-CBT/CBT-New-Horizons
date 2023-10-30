@@ -18,13 +18,13 @@ var halfnium177 = Elements.add(72, 105, -1, null, "Halfnium-177", "Hf-177", true
 
 // New Element Materials
 
-var hydrogen = MaterialBuilder(23002, "hydrogen_gas").element("Hydrogen")
+var hydrogen = MaterialBuilder(10002, "hydrogen_gas").element("Hydrogen")
     .fluid()
     .build();
 
 // Deuterium present in base GT already
 
-var helium = MaterialBuilder(23003, "helium_gas").element("Helium")
+var helium = MaterialBuilder(10003, "helium_gas").element("Helium")
     .fluid()
     .build();
 

@@ -11,7 +11,7 @@ import gregtech.common.items.behaviors.TooltipBehavior;
 // Project CBT - Machine Component Assembly
 
 StandardMetaItem lvcomponents = new StandardMetaItem((short)2);
-lvcomponents.setRegistryName("lv_component_assembly")
+lvcomponents.setRegistryName("cbt:lv_component_assembly")
 
 lvcomponents.addItem(0, "error");
 lvcomponents.addItem(1, "component_assembly.lv.alloy_smelter");
@@ -32,7 +32,7 @@ lvcomponents.addItem(15, "component_assembly.lv.cracking_unit");
 lvcomponents.addItem(16, "component_assembly.lv.distillation_tower");
 lvcomponents.addItem(17, "component_assembly.lv.distillery");
 lvcomponents.addItem(18, "component_assembly.lv.electric_blast_furnace");
-lvcomponents.addItem(19, "component_assembly.lv.electric_Furnacer");
+lvcomponents.addItem(19, "component_assembly.lv.electric_furnace");
 lvcomponents.addItem(20, "component_assembly.lv.electrolyzer");
 lvcomponents.addItem(21, "component_assembly.lv.electromagnetic_separator");
 lvcomponents.addItem(22, "component_assembly.lv.extractor");
@@ -70,7 +70,7 @@ lvcomponents.addItem(53, "component_assembly.lv.eg_semi_fluid_generator");
 lvcomponents.addItem(54, "component_assembly.lv.eg_steam_turbine");
 
 StandardMetaItem mvcomponents = new StandardMetaItem((short)2);
-mvcomponents.setRegistryName("mv_component_assembly")
+mvcomponents.setRegistryName("cbt:mv_component_assembly")
 
 mvcomponents.addItem(0, "error");
 mvcomponents.addItem(1, "component_assembly.mv.alloy_smelter");
@@ -91,7 +91,7 @@ mvcomponents.addItem(15, "component_assembly.mv.cracking_unit");
 mvcomponents.addItem(16, "component_assembly.mv.distillation_tower");
 mvcomponents.addItem(17, "component_assembly.mv.distillery");
 mvcomponents.addItem(18, "component_assembly.mv.electric_blast_furnace");
-mvcomponents.addItem(19, "component_assembly.mv.electric_Furnacer");
+mvcomponents.addItem(19, "component_assembly.mv.electric_furnace");
 mvcomponents.addItem(20, "component_assembly.mv.electrolyzer");
 mvcomponents.addItem(21, "component_assembly.mv.electromagnetic_separator");
 mvcomponents.addItem(22, "component_assembly.mv.extractor");
@@ -129,7 +129,7 @@ mvcomponents.addItem(53, "component_assembly.mv.eg_semi_fluid_generator");
 mvcomponents.addItem(54, "component_assembly.mv.eg_steam_turbine");
 
 StandardMetaItem hvcomponents = new StandardMetaItem((short)2);
-hvcomponents.setRegistryName("hv_component_assembly")
+hvcomponents.setRegistryName("cbt:hv_component_assembly")
 
 hvcomponents.addItem(0, "error");
 hvcomponents.addItem(1, "component_assembly.hv.alloy_smelter");
@@ -150,7 +150,7 @@ hvcomponents.addItem(15, "component_assembly.hv.cracking_unit");
 hvcomponents.addItem(16, "component_assembly.hv.distillation_tower");
 hvcomponents.addItem(17, "component_assembly.hv.distillery");
 hvcomponents.addItem(18, "component_assembly.hv.electric_blast_furnace");
-hvcomponents.addItem(19, "component_assembly.hv.electric_Furnacer");
+hvcomponents.addItem(19, "component_assembly.hv.electric_furnace");
 hvcomponents.addItem(20, "component_assembly.hv.electrolyzer");
 hvcomponents.addItem(21, "component_assembly.hv.electromagnetic_separator");
 hvcomponents.addItem(22, "component_assembly.hv.extractor");
@@ -188,7 +188,7 @@ hvcomponents.addItem(53, "component_assembly.hv.eg_semi_fluid_generator");
 hvcomponents.addItem(54, "component_assembly.hv.eg_steam_turbine");
 
 StandardMetaItem evcomponents = new StandardMetaItem((short)2);
-evcomponents.setRegistryName("ev_component_assembly")
+evcomponents.setRegistryName("cbt:ev_component_assembly")
 
 evcomponents.addItem(0, "error");
 evcomponents.addItem(1, "component_assembly.ev.alloy_smelter");
@@ -209,7 +209,7 @@ evcomponents.addItem(15, "component_assembly.ev.cracking_unit");
 evcomponents.addItem(16, "component_assembly.ev.distillation_tower");
 evcomponents.addItem(17, "component_assembly.ev.distillery");
 evcomponents.addItem(18, "component_assembly.ev.electric_blast_furnace");
-evcomponents.addItem(19, "component_assembly.ev.electric_Furnacer");
+evcomponents.addItem(19, "component_assembly.ev.electric_furnace");
 evcomponents.addItem(20, "component_assembly.ev.electrolyzer");
 evcomponents.addItem(21, "component_assembly.ev.electromagnetic_separator");
 evcomponents.addItem(22, "component_assembly.ev.extractor");
@@ -247,7 +247,7 @@ evcomponents.addItem(53, "component_assembly.ev.eg_semi_fluid_generator");
 evcomponents.addItem(54, "component_assembly.ev.eg_steam_turbine");
 
 StandardMetaItem ivcomponents = new StandardMetaItem((short)2);
-ivcomponents.setRegistryName("iv_component_assembly")
+ivcomponents.setRegistryName("cbt:iv_component_assembly")
 
 ivcomponents.addItem(0, "error");
 ivcomponents.addItem(1, "component_assembly.iv.alloy_smelter");
@@ -268,7 +268,7 @@ ivcomponents.addItem(15, "component_assembly.iv.cracking_unit");
 ivcomponents.addItem(16, "component_assembly.iv.distillation_tower");
 ivcomponents.addItem(17, "component_assembly.iv.distillery");
 ivcomponents.addItem(18, "component_assembly.iv.electric_blast_furnace");
-ivcomponents.addItem(19, "component_assembly.iv.electric_Furnacer");
+ivcomponents.addItem(19, "component_assembly.iv.electric_furnace");
 ivcomponents.addItem(20, "component_assembly.iv.electrolyzer");
 ivcomponents.addItem(21, "component_assembly.iv.electromagnetic_separator");
 ivcomponents.addItem(22, "component_assembly.iv.extractor");
@@ -306,7 +306,7 @@ ivcomponents.addItem(53, "component_assembly.iv.eg_semi_fluid_generator");
 ivcomponents.addItem(54, "component_assembly.iv.eg_steam_turbine");
 
 StandardMetaItem luvcomponents = new StandardMetaItem((short)2);
-luvcomponents.setRegistryName("luv_component_assembly")
+luvcomponents.setRegistryName("cbt:luv_component_assembly")
 
 luvcomponents.addItem(0, "error");
 luvcomponents.addItem(1, "component_assembly.luv.alloy_smelter");
@@ -327,7 +327,7 @@ luvcomponents.addItem(15, "component_assembly.luv.cracking_unit");
 luvcomponents.addItem(16, "component_assembly.luv.distillation_tower");
 luvcomponents.addItem(17, "component_assembly.luv.distillery");
 luvcomponents.addItem(18, "component_assembly.luv.electric_blast_furnace");
-luvcomponents.addItem(19, "component_assembly.luv.electric_Furnacer");
+luvcomponents.addItem(19, "component_assembly.luv.electric_furnace");
 luvcomponents.addItem(20, "component_assembly.luv.electrolyzer");
 luvcomponents.addItem(21, "component_assembly.luv.electromagnetic_separator");
 luvcomponents.addItem(22, "component_assembly.luv.extractor");

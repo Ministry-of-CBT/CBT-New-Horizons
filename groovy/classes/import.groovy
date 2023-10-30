@@ -14,4 +14,6 @@ import gregtech.api.unification.material.MarkerMaterials;
 import gregtech.api.unification.ore.OrePrefix;
 import net.minecraft.util.text.TextFormatting;
 import gregtech.common.items.behaviors.TooltipBehavior;
+import gregtech.api.unification.material.event.MaterialEvent;
+import gregtech.api.unification.material.Material;
 

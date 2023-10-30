@@ -1,0 +1,3 @@
+import gregtech.api.unification.material.Materials;
+
+dendrimer21.setFormula("1-(4-{{2-(13-(2-[{4-{[3,5-bis({[(4-{[2-(13-(2-[(4-{[3,5-bis({[4-{[2-(13-{2-[(4-{[(tert-butyldimethylsilyl)oxy]methyl}phenyl)bis(propan-2-yl)silyl]ethynyl}pentacen-6-yl)ethynyl]bis(propan-2-yl)silyl}phenyl)methoxy]carbonyl})benzoyloxy]methyl}phenyl)bis(propan-2-yl)silyl]ethynyl}pentacen-6-yl)ethynyl]bis(propan-2-yl)silyl}phenyl)methoxy]carbonyl})benzoyloxy]methyl}phenyl)bis(propan-2-yl)silyl]ethynyl}pentacen-6-yl)ethynyl]bis(propan-2-yl)silyl}phenyl)methyl 3,5-bis[(4-{[2-(13-{2-[(4-{[tert-butyldimethylsilyl)oxy]methyl}phenyl)bis(propan-2-yl)silyl]ethynyl}pentacen-6-yl)ethynyl]bis(propan-2-yl)silyl}phenyl)methyl] benzene-1,3,5-tricarboxylate", true)

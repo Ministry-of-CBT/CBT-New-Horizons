@@ -11,9 +11,10 @@ import gregtech.common.items.behaviors.TooltipBehavior;
 log.infoMC("Project CBT: Adding Project CBT Related MetaItems")
 
 StandardMetaItem projectcbt1 = new StandardMetaItem((short)2);
-projectcbt1.setRegistryName("projectcbt_metaitem1")
+projectcbt1.setRegistryName("cbt:projectcbt_metaitem1")
 
 projectcbt1.addItem(1, "gregtech.lean");
 
 log.infoMC("Project CBT: Finished Task: Project CBT Related MetaItems")
+
 

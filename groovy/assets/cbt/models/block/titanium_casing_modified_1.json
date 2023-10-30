@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cbt:blocks/titanium_casing_modified_1"
+  }
+}

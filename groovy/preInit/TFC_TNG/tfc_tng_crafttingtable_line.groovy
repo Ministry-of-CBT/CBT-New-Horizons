@@ -1,0 +1,1 @@
+content.createItem("stone_crafting_table_template").register()

@@ -6,10 +6,12 @@ Periodic Table:
 
 Composite:
 13000 - Ores
-14000-16000 - Hydrocarbons
-16000-20000 - Alloys
+14000 to 16000 - Hydrocarbons
+16000 to 20000 - Alloys
 20000 - Misc
 22000 - Fictional Materials
 24000 - Intermediary Compounds
-26000 - Complex Materials
+26000 to 28000 - Complex Materials
 28000 to 28200 - Breaking greg
+28200 to 28500 - HBMGreg Compat
+29000 to 30000 - Gemstones

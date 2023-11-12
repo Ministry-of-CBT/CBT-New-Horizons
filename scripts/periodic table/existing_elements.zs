@@ -15,16 +15,3 @@ var carbon13 = Elements.add(6, 7, -1, null, "Carbon-13", "C-13", true);
 var carbon14 = Elements.add(6, 8, -1, null, "Carbon-14", "C-14", true);
 var technetium99 = Elements.add(43, 46, -1, null, "Technetium-99", "Tc-99", true);
 var halfnium177 = Elements.add(72, 105, -1, null, "Halfnium-177", "Hf-177", true);
-
-// New Element Materials
-
-var hydrogen = MaterialBuilder(10002, "hydrogen_gas").element("Hydrogen")
-    .fluid()
-    .build();
-
-// Deuterium present in base GT already
-
-var helium = MaterialBuilder(10003, "helium_gas").element("Helium")
-    .fluid()
-    .build();
-

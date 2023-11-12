@@ -14,6 +14,15 @@ customization {
 }
 
 customization {
+  identifier = %id=465975%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = -73
+  action = movebutton
+  y = 0
+}
+
+customization {
   path = resources/projectcbt/ftbicons/project-cbt-icon.png
   orientation = bottom-left
   x = 2
@@ -60,11 +69,23 @@ customization {
 }
 
 customization {
-  identifier = %id=465975%
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  action = hidebutton
+}
+
+customization {
   orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
-  x = -73
-  action = movebutton
-  y = 0
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  label = Save and Quit
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:forge_pausescreen_mods_button
+  x = -102
+  width = 200
+  actionid = 1331edeb-1a3e-4f11-b364-98ae18fb604b1699171862644
+  action = addbutton
+  y = 24
+  value = cbtnhquit
+  height = 20
 }
 

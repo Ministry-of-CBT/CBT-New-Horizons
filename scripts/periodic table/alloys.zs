@@ -83,7 +83,7 @@ var uranium_lignite = MaterialBuilder(16009, "uranium_lignite")
     .components([<material:uranium>*1, <material:lignite>*1])
     .build();
 
-var sodium_hypochlorite = MaterialBuilder(16010, "sodium_hypochlorite ")
+var sodium_hypochlorite = MaterialBuilder(16010, "sodium_hypochlorite")
     .fluid()
     .colorAverage()
     .components([<material:sodium>*1, <material:chlorine>*1, <material:oxygen>*1])

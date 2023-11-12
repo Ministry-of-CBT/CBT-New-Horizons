@@ -56,34 +56,57 @@ tips.addTip(":Marisad: > Tip 46: Out of all of Gensokyo, it's almost undoubtedly
 tips.addTip("Judith the Steampunker > Tip 47: What the fuck does tip 45 and 46 mean and how do i get rid of them")
 tips.addTip("oliwier509 > Tip 48: Every time the word "wife" gets mentioned in a touhou discord, the modpack gets harder")
 tips.addTip("Cerbs > Tip 49: Hey guys, did you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3”03’ tall and 63.9 pounds, this means they’re large enough to be able handle human dicks, and with their impressive Base Stats for HP and access to Acid Armor, you can be rough with one. Due to their mostly water based biology, there’s no doubt in my mind that an aroused Vaporeon would be incredibly wet, so wet that you could easily have sex with one for hours without getting sore. They can also learn the moves Attract, Baby-Doll Eyes, Captivate, Charm, and Tail Whip, along with not having fur to hide nipples, so it’d be incredibly easy for one to get you in the mood. With their abilities Water Absorb and Hydration, they can easily recover from fatigue with enough water. No other Pokémon comes close to this level of compatibility. Also, fun fact, if you pull out enough, you can make your Vaporeon turn white. Vaporeon is literally built for human dick. Ungodly defense stat+high HP pool+Acid Armor means it can take cock all day, all shapes and sizes and still come for more ")
-tips.addTip(":Marisad: > Tip 50: 
-\n ⠀⠀⠀⣠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀
-\n⠀⠀⡜⠁⠀⠈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠋⠷⠶⠱⡄
-\n⠀⢸⣸⣿⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠫⢀⣖⡃⢀⣸⢹
-\n⠀⡇⣿⣿⣶⣤⡀⠀⠀⠙⢆⠀⠀⠀⠀⠀⣠⡪⢀⣤⣾⣿⣿⣿⣿⣸
-\n⠀⡇⠛⠛⠛⢿⣿⣷⣦⣀⠀⣳⣄⠀⢠⣾⠇⣠⣾⣿⣿⣿⣿⣿⣿⣽
-\n⠀⠯⣠⣠⣤⣤⣤⣭⣭⡽⠿⠾⠞⠛⠷⠧⣾⣿⣿⣯⣿⡛⣽⣿⡿⡼
-\n⠀⡇⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣿⣿⣮⡛⢿⠃
-\n⠀⣧⣛⣭⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣎⡇
-\n⠀⡸⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣷⣟⡇
-\n⣜⣿⣿⡧⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⣸⣿⡜⡄
-\n⠉⠉⢹⡇⠀⠀⠀⢀⣞⠡⠀⠀⠀⠀⠀⠀⡝⣦⠀⠀⠀⠀⢿⣿⣿⣹
-\n⠀⠀⢸⠁⠀⠀⢠⣏⣨⣉⡃⠀⠀⠀⢀⣜⡉⢉⣇⠀⠀⠀⢹⡄⠀⠀
-\n⠀⠀⡾⠄⠀⠀⢸⣾⢏⡍⡏⠑⠆⠀⢿⣻⣿⣿⣿⠀⠀⢰⠈⡇⠀⠀
-\n⠀⢰⢇⢀⣆⠀⢸⠙⠾⠽⠃⠀⠀⠀⠘⠿⡿⠟⢹⠀⢀⡎⠀⡇⠀⠀
-\n⠀⠘⢺⣻⡺⣦⣫⡀⠀⠀⠀⣄⣀⣀⠀⠀⠀⠀⢜⣠⣾⡙⣆⡇⠀⠀
-\n⠀⠀⠀⠙⢿⡿⡝⠿⢧⡢⣠⣤⣍⣀⣤⡄⢀⣞⣿⡿⣻⣿⠞⠀⠀⠀
-\n⠀⠀⠀⢠⠏⠄⠐⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠳⢤⣉⢳⠀⠀⠀
-\n⢀⡠⠖⠉⠀⠀⣠⠇⣿⡿⣿⡿⢹⣿⣿⣿⣿⣧⣠⡀⠀⠈⠉⢢⡀⠀
-\n⢿⠀⠀⣠⠴⣋⡤⠚⠛⠛⠛⠛⠛⠛⠛⠛⠙⠛⠛⢿⣦⣄⠀⢈⡇⠀
-\n⠈⢓⣤⣵⣾⠁⣀⣀⠤⣤⣀⠀⠀⠀⠀⢀⡤⠶⠤⢌⡹⠿⠷⠻⢤⡀
-\n⢰⠋⠈⠉⠘⠋⠁⠀⠀⠈⠙⠳⢄⣀⡴⠉⠀⠀⠀⠀⠙⠂⠀⠀⢀⡇
-\n⢸⡠⡀⠀⠒⠂⠐⠢⠀⣀⠀⠀⠀⠀⠀⢀⠤⠚⠀⠀⢸⣔⢄⠀⢾⠀
-\n⠀⠑⠸⢿⠀⠀⠀⠀⢈⡗⠭⣖⡒⠒⢊⣱⠀⠀⠀⠀⢨⠟⠂⠚⠋⠀
-\n⠀⠀⠀⠘⠦⣄⣀⣠⠞⠀⠀⠀⠈⠉⠉⠀⠳⠤⠤⡤⠞⠀⠀⠀⠀⠀")
+tips.addTip(":Marisad: > Tip 50: \n ⠀⠀⠀⣠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀\n⠀⠀⡜⠁⠀⠈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠋⠷⠶⠱⡄\n⠀⢸⣸⣿⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠫⢀⣖⡃⢀⣸⢹\n⠀⡇⣿⣿⣶⣤⡀⠀⠀⠙⢆⠀⠀⠀⠀⠀⣠⡪⢀⣤⣾⣿⣿⣿⣿⣸\n⠀⡇⠛⠛⠛⢿⣿⣷⣦⣀⠀⣳⣄⠀⢠⣾⠇⣠⣾⣿⣿⣿⣿⣿⣿⣽\n⠀⠯⣠⣠⣤⣤⣤⣭⣭⡽⠿⠾⠞⠛⠷⠧⣾⣿⣿⣯⣿⡛⣽⣿⡿⡼\n⠀⡇⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣿⣿⣮⡛⢿⠃\n⠀⣧⣛⣭⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣎⡇\n⠀⡸⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣷⣟⡇\n⣜⣿⣿⡧⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⣸⣿⡜⡄\n⠉⠉⢹⡇⠀⠀⠀⢀⣞⠡⠀⠀⠀⠀⠀⠀⡝⣦⠀⠀⠀⠀⢿⣿⣿⣹\n⠀⠀⢸⠁⠀⠀⢠⣏⣨⣉⡃⠀⠀⠀⢀⣜⡉⢉⣇⠀⠀⠀⢹⡄⠀⠀\n⠀⠀⡾⠄⠀⠀⢸⣾⢏⡍⡏⠑⠆⠀⢿⣻⣿⣿⣿⠀⠀⢰⠈⡇⠀⠀\n⠀⢰⢇⢀⣆⠀⢸⠙⠾⠽⠃⠀⠀⠀⠘⠿⡿⠟⢹⠀⢀⡎⠀⡇⠀⠀\n⠀⠘⢺⣻⡺⣦⣫⡀⠀⠀⠀⣄⣀⣀⠀⠀⠀⠀⢜⣠⣾⡙⣆⡇⠀⠀\n⠀⠀⠀⠙⢿⡿⡝⠿⢧⡢⣠⣤⣍⣀⣤⡄⢀⣞⣿⡿⣻⣿⠞⠀⠀⠀\n⠀⠀⠀⢠⠏⠄⠐⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠳⢤⣉⢳⠀⠀⠀\n⢀⡠⠖⠉⠀⠀⣠⠇⣿⡿⣿⡿⢹⣿⣿⣿⣿⣧⣠⡀⠀⠈⠉⢢⡀⠀\n⢿⠀⠀⣠⠴⣋⡤⠚⠛⠛⠛⠛⠛⠛⠛⠛⠙⠛⠛⢿⣦⣄⠀⢈⡇⠀\n⠈⢓⣤⣵⣾⠁⣀⣀⠤⣤⣀⠀⠀⠀⠀⢀⡤⠶⠤⢌⡹⠿⠷⠻⢤⡀\n⢰⠋⠈⠉⠘⠋⠁⠀⠀⠈⠙⠳⢄⣀⡴⠉⠀⠀⠀⠀⠙⠂⠀⠀⢀⡇\n⢸⡠⡀⠀⠒⠂⠐⠢⠀⣀⠀⠀⠀⠀⠀⢀⠤⠚⠀⠀⢸⣔⢄⠀⢾⠀\n⠀⠑⠸⢿⠀⠀⠀⠀⢈⡗⠭⣖⡒⠒⢊⣱⠀⠀⠀⠀⢨⠟⠂⠚⠋⠀\n⠀⠀⠀⠘⠦⣄⣀⣠⠞⠀⠀⠀⠈⠉⠉⠀⠳⠤⠤⡤⠞⠀⠀⠀⠀⠀")
 tips.addTip("Judith the Steampunker > Tip 51: :NOWAYYY:")
 tips.addTip("kravisni > Tip 52: CBT helps bone growth.")
 tips.addTip("Judith the Steampunker > Tip 53: Stronger bones means more gregging!")
+tips.addTip("kravisni > Tip 54: And more gregging means stronger bones!")
+tips.addTip(":Marisad: > Tip 55: Drink Twin Island's Milk for stronger bones. Painful death to the lactose intolerant, for you there is no lament! ")
+tips.addTip("GuyApooye > Tip 56: Tip number 40 is stupid, please do not listen to it.")
+tips.addTip(":Marisad: > Tip 57: This statement is false")
+tips.addTip("oliwier509 > Tip 58: STOP POSTING ABOUT HEY MISTER! I'M TIRED OF SEEING IT! my friends on Reddit send me memes, on discord its FUCKING memes, I was in a server right? and ALL OF THE CHANNELS were just hey mister stuff. I-I showed my pet bat to my touhou friend and I looked at the bat and I said "Hey dude, when the bat pulled your yukata and said 'HEY MISTER' HAHA *imitates septette for the dead princess "I fucking looked at a person with a yukata and said "HEY MISTER DO YOU WANNA HAVE SEX?" I LOOKED AT MY PENIS AND SAID "PENIS? MORE LIKE 200834" AAAAAAAAAAAAAAAAAAAAAHH")
+tips.addTip("Famelovey > Tip 59: always pick tails.png")
+tips.addTip("diego26007 > Tip 60: Touhou is a collection of Waifus, not a game")
+tips.addTip("oliwier509> Tip 61: "Viva la France and prepare to Shit your Pants" -Napoleon Bonaparte")
+tips.addTip("diego26007 > Tip 62: Disregard tip 61, France doesn't exist and Napoleon Bonaparte was against Marisex")
+tips.addTip("Judith the Steampunker> Tip 63: I hate the fr*nch")
+tips.addTip("Famelovey> Tip 64: fuck_yo_man.png")
+tips.addTip("Judith the Steampunker > Tip 65: What is tip 64 and how do i get rid of it :TROLLEDCRAZY:")
+tips.addTip("diego26007 > Tip 66: Tip 65, tip 64 is 200834 and you can't get rid of it, hope that helps ")
+tips.addTip("diego26007 > Tip 67: Tip 63 is based")
+tips.addTip("Judith the Steampunker > Tip 68: Tip 66, i want to die")
+tips.addTip("Judith the Steampunker > Tip 69: Does not exist")
+tips.addTip("Famelovey > Tip 70: dear tip 66, delete_this_now_hey_mister.png ")
+tips.addTip("diego26007 > Tip 71: Why tip 70 ")
+tips.addTip("diego26007 > Tip 72: Sources say that you can sleep with Okuu if you sleep in the Nether ")
+tips.addTip("oliwier509 > Tip 73: This pack is like George Orwell’s uhh book, 1984 ")
+tips.addTip(":Marisad: > Tip 74: these tips are getting low quality now")
+tips.addTip("Famelovey > Tip 75: A dude has 4 different types of girls.. 1. Wifey 2. Boo 3. Bitches 4. Ho's > 1) Wifey is the only one that is irreplaceable.. She is the girl that the guy loves and will always love, and he never wants to see her with another man.. But.. He will cheat on her with Boo, Bitches, and Ho's until he is mature enough to realize that if he loses Wifey he would be screwed, and NEVER be happy again.. > 2) Boo is replaceable, she thinks she's Wifey, but will NEVER be Wifey because Wifey is irreplaceable.. she can NEVER replace her.. Boo tries to take Wifeys spot, but once she attempts, the guy allows her to get a TASTE of Wifey's spot... but will NEVER achieve her spot for any longer than a few months, then the man goes back to Wifey.. And Boo either gets replaced with another Boo, or, the man matures and decides that Wifey is the one for him.. (Ladies.. you don't want to be BOO) . > 3) Bitches.. A female that a male uses only for sex or other sexually related events..Dat call when Wifey acting up and you need a quick nut. The bitch is the first one running there. > 4) Ho's.. enough said! Trying to move up in life, Wants to be a Bitch or a Boo. Hoes are just the girls you bag for no reason and have them in your phone. Backups incase a bitch or a boo slips up. Then you replace with a hoe ")
+tips.addTip("oliwier509 > Tip 76: Reacting to: "Tip 74: these tips are getting low quality now" part 1 ep 1 ")
+tips.addTip("diego26007 > Tip 77: That Reimu is a Spy!")
+tips.addTip("Bread > Tip 78: I hate anime and girls")
+tips.addTip("Cerbs > Tip 79: In Soviet Russia, slime eats you.")
+tips.addTip("Judith the Steampunker > Tip 80: Tip 74 is false")
+tips.addTip("diego26007 > Tip 81: Tip 78 clearly hasn't heard about Marisex")
+tips.addTip("Judith the Steampunker > Tip 82: :FeedTheMemes:")
+tips.addTip("diego26007 > Tip 83: What is a Norxondor Gorgonax Gate and how do I get rid of it")
+tips.addTip("oliwier509 > Tip 84: 19")
+tips.addTip("Judith the Steampunker > Tip 85: :marisa:")
+tips.addTip("Bread > Tip 86: The SEX! multiblock is the first machine you will craft, use it for evil")
+tips.addTip("Five nights at Floppa 1 god > Tip 87: you should play Five Nights at Floppa 0")
+tips.addTip("Judith the Steampunker > Tip 88: Infinite mokou reaction memes")
+tips.addTip("oliwier509 > Tip 89: By playing this pack you consent to your Marisex being recorded and used as training material for the Marisex AI")
+tips.addTip("diego26007 > Tip 90: By not playing this pack you consent to your IP address being grabbed to be used as a Marisex Training Playground")
+tips.addTip("Wasd YT > Tip 91: Dont forget to download the Earrape resource pack that makes everything louder for a true gaming experience")
+tips.addTip("peachey!! > Tip 92: Marisa")
+tips.addTip("Cane1712 > Tip 93: why the fuck do you find Marisa hot? Bro she's just a normal fucking white woman")
+tips.addTip("Judith the Steampunker > Tip 94: Kill lunarians. Behead lunarians.")
+tips.addTip("diego26007 > Tip 95: Kill Canadians (in r/place). Behead Canadians (in r/place) ")
+tips.addTip("Bread > Tip 96: Kill")
+tips.addTip("peachey!! > Tip 97: IGBLON_iwanttohavesexwithmarisa_imeanthisfromthebottomofmyheart.png")
+tips.addTip("RedDragon842 > Tip 98: did you know in terms of touhou marisa is the most-")
+tips.addTip("Cane1712 > Tip 99 IGBLON also goes by predator")
+tips.addTip("peachey!! > Tip 100: mob psycho reference")
 
 quotes = addRandomText("bottom_left")
 quotes.setAbsXOffset(5)

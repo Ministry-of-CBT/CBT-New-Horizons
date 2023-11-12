@@ -15,7 +15,7 @@ customization {
 
 customization {
   path = resources/Butterfly - Project CBT Remix.wav
-  loop = false
+  loop = true
   action = addaudio
 }
 
@@ -54,7 +54,7 @@ customization {
   action = addbutton
   y = -22
   label = I hate this modpack.
-  value = 
+  value = null
   height = 20
 }
 

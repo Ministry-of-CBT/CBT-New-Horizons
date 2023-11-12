@@ -57,4 +57,3 @@ var modulatum = Elements.add(167, 338, -1, null, "Modulatum-505", "Mm", false);
 var etharosium = Elements.add(168, 342, -1, null, "Etharosium-510", "Es", false);
 var echotium = Elements.add(169, 347, -1, null, "Echotium-516", "Et", false);
 var naquadasson = Elements.add(170, 330, -1, null, "Naquadasson-520", "Nq-520", true);
-

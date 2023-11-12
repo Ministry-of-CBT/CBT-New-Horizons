@@ -1,0 +1,24 @@
+[{
+  "modid": "gregtech",
+  "name": "GregTech CEu [CBT:NH]",
+  "description": "Oh no, what the fuck and why does this fork of gregtech ceu exist???? WHY??????????",
+  "version": "2.7.4-beta",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/gregtech/textures/gt_logo_long.png",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial",
+  "authorList": [
+    "serenibyss",
+    "TechLord22",
+    "KilaBash",
+    "Archengius",
+    "Exidex",
+    "BloodAsp",
+    "Muramasa",
+    "GregoriusT",
+    "Nrmot (CBT:NH)"
+  ],
+  "credits": "GregoriusT for making GregTech and textures, the GT5u authors and maintainers for providing the original code, and the community, and GTCEu Devs for GregTech CEu which this is forked from.",
+  "dependencies": [
+    "codechickenlib"
+  ]
+}]

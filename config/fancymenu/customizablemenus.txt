@@ -78,6 +78,3 @@ com.cleanroommc.multiblocked.api.gui.modular.ModularUIGuiContainer {
 net.minecraft.client.gui.GuiOptions {
 }
 
-ichttt.mods.moresoundconfig.gui.GuiSound {
-}
-

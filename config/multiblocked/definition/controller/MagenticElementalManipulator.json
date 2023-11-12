@@ -1,0 +1,984 @@
+{
+  "version": 2,
+  "location": "cbt:magentic_elemental_manipulator",
+  "traits": {
+    "recipe_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 76,
+      "y": 32,
+      "width": 24,
+      "height": 35,
+      "texture": "multiblocked:textures/magentic_elemental_manipulator/overlay.png",
+      "fillDirection": 3
+    },
+    "gtce_energy": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 58,
+      "y": 130,
+      "width": 60,
+      "height": 10,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 16777216
+    },
+    "background": "multiblocked:textures/magentic_elemental_manipulator/magentic_elemental_manipulator_gui.png",
+    "item": [
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 18,
+        "y": 61,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 36,
+        "y": 61,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 54,
+        "y": 61,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 79,
+        "y": 79,
+        "autoIO": false,
+        "valid": [
+          "\"{id:\\\"hbm:particle_digamma\\\",Count:1,Damage:0s}\""
+        ]
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 54,
+        "y": 79,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 18,
+        "y": 79,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 18,
+        "y": 97,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 36,
+        "y": 97,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 54,
+        "y": 97,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 104,
+        "y": 61,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 104,
+        "y": 79,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 104,
+        "y": 97,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 122,
+        "y": 61,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 140,
+        "y": 61,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 140,
+        "y": 79,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 122,
+        "y": 97,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 140,
+        "y": 97,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 60,
+        "y": 5,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 79,
+        "y": 5,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 98,
+        "y": 5,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 60,
+        "y": 144,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 79,
+        "y": 144,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 98,
+        "y": 144,
+        "autoIO": false
+      }
+    ]
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "gregtech:meta_block_frame_1500",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "ELEMENTAL_CONVERSION",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "    A    ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "    A    ",
+        "   BBB   ",
+        "   BBB   ",
+        "   BBB   ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "  BBBBB  ",
+        "  BCCCB  ",
+        "  BCCCB  ",
+        "  BCCCB  ",
+        "  BBBBB  ",
+        "         ",
+        "         "
+      ],
+      [
+        "   B B   ",
+        "   B B   ",
+        "   B B   ",
+        "   B B   ",
+        "   B B   ",
+        "  BBBBB  ",
+        " BBCCCBB ",
+        " BC   CB ",
+        " BC   CB ",
+        " BC   CB ",
+        " BBCCCBB ",
+        "  BBBBB  ",
+        "         "
+      ],
+      [
+        "A       A",
+        "A       A",
+        "A       A",
+        "A       A",
+        "A       A",
+        "AA CCC  A",
+        "A C   C A",
+        "AC     CA",
+        "AC     CA",
+        "AC     CA",
+        "AAC   CAA",
+        " AACCCAA ",
+        "  AAAAA  "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "  A   A  ",
+        " A CCC A ",
+        "A C   C A",
+        " C     C ",
+        " C     C ",
+        " C     C ",
+        "A C   C A",
+        " A CCC A ",
+        "  A   A  "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        " A CCC A ",
+        "  C   C  ",
+        " C     C ",
+        "AC     CA",
+        " C     C ",
+        "  C   C  ",
+        " A CCC A ",
+        "    A    "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        "  A   A  ",
+        " A CCC A ",
+        "A C   C A",
+        " C     C ",
+        " C     C ",
+        " C     C ",
+        "A C   C A",
+        " A CCC A ",
+        "  A   A  "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        " A CCC A ",
+        "  C   C  ",
+        " C     C ",
+        "AC     CA",
+        " C     C ",
+        "  C   C  ",
+        " A CCC A ",
+        "    A    "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        "  A   A  ",
+        " A CCC A ",
+        "A C   C A",
+        " C     C ",
+        " C     C ",
+        " C     C ",
+        "A C   C A",
+        " A CCC A ",
+        "  A   A  "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        " A CCC A ",
+        "  C   C  ",
+        " C     C ",
+        "AC     C@",
+        " C     C ",
+        "  C   C  ",
+        " A CCC A ",
+        "    A    "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        "  A   A  ",
+        " A CCC A ",
+        "A C   C A",
+        " C     C ",
+        " C     C ",
+        " C     C ",
+        "A C   C A",
+        " A CCC A ",
+        "  A   A  "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        " A CCC A ",
+        "  C   C  ",
+        " C     C ",
+        "AC     CA",
+        " C     C ",
+        "  C   C  ",
+        " A CCC A ",
+        "    A    "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        " A     A ",
+        "  A   A  ",
+        " A CCC A ",
+        "A C   C A",
+        " C     C ",
+        " C     C ",
+        " C     C ",
+        "A C   C A",
+        " A CCC A ",
+        "  A   A  "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        "    A    ",
+        " A CCC A ",
+        "  C   C  ",
+        " C     C ",
+        "AC     CA",
+        " C     C ",
+        "  C   C  ",
+        " A CCC A ",
+        "    A    "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "   A A   ",
+        " A CCC A ",
+        "  C   C  ",
+        "AC     CA",
+        " C     C ",
+        "AC     CA",
+        "  C   C  ",
+        " A CCC A ",
+        "   A A   "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "  A   A  ",
+        " A CCC A ",
+        "A C   C A",
+        " C     C ",
+        " C     C ",
+        " C     C ",
+        "A C   C A",
+        " A CCC A ",
+        "  A   A  "
+      ],
+      [
+        "A       A",
+        "A       A",
+        "A       A",
+        "A       A",
+        "A       A",
+        "A  CCC  A",
+        "A C   C A",
+        "AC     CA",
+        "AC     CA",
+        "AC     CA",
+        "AAC   CAA",
+        " AACCCAA ",
+        "  AAAAA  "
+      ],
+      [
+        "   B B   ",
+        "   B B   ",
+        "   B B   ",
+        "   B B   ",
+        "   B B   ",
+        "  BBBBB  ",
+        " BBCCCBB ",
+        " BC   CB ",
+        " BC   CB ",
+        " BC   CB ",
+        " BBCCCBB ",
+        "  BBBBB  ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "  BBBBB  ",
+        "  BCCCB  ",
+        "  BCCCB  ",
+        "  BCCCB  ",
+        "  BBBBB  ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "    A    ",
+        "   BBB   ",
+        "   BBB   ",
+        "   BBB   ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "    A    ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "gregtech:meta_block_frame_1500",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "cbt:magentic_elemental_manipulator",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "gregtech:meta_block_compressed_1500",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "cbt:fusion_matrix_polymultischrabaquadallastantarium",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "air": {
+        "type": "air"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  }
+}

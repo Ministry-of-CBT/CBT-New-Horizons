@@ -13,5 +13,5 @@ Composite:
 24000 - Intermediary Compounds
 26000 to 28000 - Complex Materials
 28000 to 28200 - Breaking greg
-28200 to 28500 - HBMGreg Compat
+28500 to 29000 - HBMGreg Compat
 29000 to 30000 - Gemstones

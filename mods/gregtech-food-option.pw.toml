@@ -1,13 +1,13 @@
 name = "GregTech Food Option"
-filename = "gregtechfoodoption-1.10.0.2.jar"
+filename = "gregtechfoodoption-1.10.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b7e85089b8d9edf7d6965aab547974d0f9558c89"
+hash = "dfb64da8411bfcb8376ccf0c865d87355c126e18"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4808666
+file-id = 4904513
 project-id = 477021

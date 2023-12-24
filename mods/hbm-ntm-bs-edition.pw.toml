@@ -1,0 +1,13 @@
+name = "HBM NTM BS Edition"
+filename = "Hbms+Nuclear+Tech+-+Hamster+Reloaded+-+1.12.2-1.6.1-patched.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb8fbabb2908bce42c8907828a88f9759e0cdd75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4837535
+project-id = 932766
